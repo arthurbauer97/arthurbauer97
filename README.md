@@ -31,16 +31,6 @@ Flutter  2 hrs           ██████░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Java     9 hrs 20 mins   ███████████████████▒░░░░░   76.79 % 
-XML      2 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Groovy   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Swift    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-```
-<!--END_SECTION:waka-->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Arthur_Bauer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Arthur_Bauer" height="30" width="40" /></a>
