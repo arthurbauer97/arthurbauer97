@@ -15,15 +15,14 @@
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arthurbauer97&label=Profile%20views&color=0e75b6&style=flat" alt="arthurbauer97" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurbauer97&label=Profile%20views&color=0e75b6&style=flat" alt="arthurbauer97" /> </p>
 
-<p align="center"> 
 - 🌱 I’m currently learning **Android Developer**
 
 - 💬 Ask me about **Android Mobile, Kotlin**
 
 - 📫 How to reach me **arthur.bauer@rede.ulbra.br**
- </p>
+- 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/Arthur_Bauer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Arthur_Bauer" height="30" width="40" /></a>
