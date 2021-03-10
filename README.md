@@ -25,10 +25,8 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
 Kotlin   9 hrs 20 mins   ███████████████████▒░░░░░   76.79 % 
 Flutter  4 hrs           ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-```
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
