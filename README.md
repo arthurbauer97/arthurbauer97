@@ -8,11 +8,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="css3" width="50" height="50"/> 
    </a>
    
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=arthurbauer97&label=Profile%20views&color=0e75b6&style=flat" alt="arthurbauer97" /> </p>
+<img align="right" src="https://komarev.com/ghpvc/?username=arthurbauer97&label=Profile%20views&color=0e75b6&style=flat" alt="arthurbauer97" />
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="408" height="318" />
-
-</br>
 
 - 🌱 I’m currently learning **Android Developer** 
 
