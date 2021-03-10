@@ -21,7 +21,7 @@
 <p align="left">
   
   <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="css3" width="90" height="50"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="css3" width="50" height="50"/> 
   </a>
   
    <a href="https://developer.android.com/studio" target="_blank">
