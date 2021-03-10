@@ -1,9 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />, I'm Arthur Bauer</h1>
 <h3 align="center">A Android Developer developer from Brazil.</h3>
-
-
-<p align="left">
-  
    <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="css3" width="50" height="50"/> 
    </a>
@@ -11,10 +7,8 @@
    <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="css3" width="50" height="50"/> 
    </a>
-  
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurbauer97&label=Profile%20views&color=0e75b6&style=flat" alt="arthurbauer97" /> </p>
+   
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=arthurbauer97&label=Profile%20views&color=0e75b6&style=flat" alt="arthurbauer97" /> </p>
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="408" height="318" />
 
