@@ -2,11 +2,11 @@
 <h3 align="center">A Android Developer developer from Brazil.</h3>
 
    <a href="https://kotlinlang.org/" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="css3" width="50" height="50"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="css3" width="50" height="50"/> 
    </a>
   
    <a href="https://developer.android.com/studio" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="css3" width="50" height="50"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="css3" width="50" height="50"/> 
    </a>
    
 <img align="right" src="https://komarev.com/ghpvc/?username=arthurbauer97&label=Profile%20views&color=0e75b6&style=flat" alt="arthurbauer97" />
