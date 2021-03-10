@@ -31,4 +31,4 @@
 <a href="https://instagram.com/arthurbteixeira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arthurbteixeira" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=arthurbauer97&show_icons=true&theme=gotham" alt="arthurbauer97" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arthurbauer97&show_icons=true&theme=gotham" alt="arthurbauer97" />
