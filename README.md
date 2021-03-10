@@ -22,8 +22,6 @@
 
 - 📫 How to reach me **arthur.bauer@rede.ulbra.br** 
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="408" height="318" />
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Arthur_Bauer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Arthur_Bauer" height="30" width="40" /></a>
@@ -32,3 +30,4 @@
 </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arthurbauer97&show_icons=true&theme=gotham" alt="arthurbauer97" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="408" height="318" />
