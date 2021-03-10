@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arthur Bauer</h1>
+<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />, I'm Arthur Bauer</h1>
 <h3 align="center">A Android Developer developer from Brazil.</h3>
 
 
