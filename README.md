@@ -29,5 +29,6 @@
 <a href="https://instagram.com/arthurbteixeira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arthurbteixeira" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arthurbauer97&show_icons=true&theme=gotham" alt="arthurbauer97" />
+
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="408" height="318" />
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arthurbauer97&show_icons=true&theme=gotham" alt="arthurbauer97" />
