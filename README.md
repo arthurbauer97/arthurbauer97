@@ -17,11 +17,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurbauer97&label=Profile%20views&color=0e75b6&style=flat" alt="arthurbauer97" /> </p>
 
-- 🌱 I’m currently learning **Android Developer** -
+- 🌱 I’m currently learning **Android Developer** 
 
-- 💬 Ask me about **Android Mobile, Kotlin** -
+- 💬 Ask me about **Android Mobile, Kotlin** 
 
-- 📫 How to reach me **arthur.bauer@rede.ulbra.br** -
+- 📫 How to reach me **arthur.bauer@rede.ulbra.br** 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
