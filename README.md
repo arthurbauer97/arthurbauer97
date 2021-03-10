@@ -14,6 +14,7 @@
   
 </p>
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="408" height="318" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurbauer97&label=Profile%20views&color=0e75b6&style=flat" alt="arthurbauer97" /> </p>
 
@@ -22,8 +23,6 @@
 - 💬 Ask me about **Android Mobile, Kotlin** 
 
 - 📫 How to reach me **arthur.bauer@rede.ulbra.br** 
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="408" height="318" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
