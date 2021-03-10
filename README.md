@@ -23,13 +23,7 @@
 
 - 📫 How to reach me **arthur.bauer@rede.ulbra.br** 
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Kotlin   9 hrs 20 mins   ███████████████████▒░░░░░   76.79 % 
-Flutter  2 hrs           ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-```
-<!--END_SECTION:waka-->
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="408" height="318" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
