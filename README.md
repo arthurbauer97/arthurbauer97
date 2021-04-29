@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />, I'm Arthur Bauer</h1>
+<h1 align="center">Hi <img src="https://media.tenor.com/images/227df21783ce057ebe24322a27f4e409/tenor.gif" height="32" />, I'm Arthur Bauer</h1>
 <h3 align="center">A Android Developer developer from Brazil.</h3>
    
    <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif?raw=true" width="390" height="318" />
