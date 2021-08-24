@@ -28,4 +28,20 @@
 <a href="https://instagram.com/arthurbteixeira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arthurbteixeira" height="30" width="40" /></a>
 </p>
 
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arthurbauer97&show_icons=true&theme=gotham" alt="arthurbauer97" />
+<h3 align="center"> My Github Stats </h3>
+
+  <br/>
+  
+<p align="center">
+ <img alt="arthurbauer97 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbauer97&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="arthurbauer97 Github Stats" src="https://github-readme-stats.vercel.app/api?username=arthurbauer97&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
+
+<p align="center">
+  <img alt="arthurbauer97 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=arthurbauer97&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</p>
+
+  <br/>
+  
+<p align="center"> <i>"Your time is limited, so don't waste it living someone else's life."</i> </p>
+<p align="center"> <i>-Steve Jobs</i> </p>
