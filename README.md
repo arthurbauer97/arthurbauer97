@@ -33,7 +33,7 @@
   <br/>
   
 <p align="center">
- <img alt="arthurbauer97 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbauer97&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+ <img alt="arthurbauer97 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurbauer97&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <img alt="arthurbauer97 Github Stats" src="https://github-readme-stats.vercel.app/api?username=arthurbauer97&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
